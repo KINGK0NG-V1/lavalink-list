@@ -4,6 +4,13 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 
 ---
+Hosted by @ [C0SMOS#1346](https://luneocloud.com)
+```bash
+Host : lavalink.luneocloud.com
+Port : 443
+Password : "B25.Xaa+C4y"
+Secure : true
+```
 Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
 Host : lavalink.oops.wtf
