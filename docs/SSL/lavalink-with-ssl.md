@@ -69,3 +69,10 @@ Port : 443
 Password : "AWP)JQ$Gv9}dm.u"
 Secure : true
 ```
+Hosted by @ [LUNEOCLOUD](https://luneocloud.com)
+```bash
+Host : lavalink.luneocloud.com
+Port : 443
+Password : "B25.Xaa+C4y"
+Secure : true
+```
